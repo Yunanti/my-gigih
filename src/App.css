@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: black;
+  color: white;
 }
 
 .App-logo {
@@ -64,6 +65,14 @@ img {
   height: 25px;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
+  border-width: 0px;
+}
+
+.btn {
+  background-color: rgba(1, 247, 1, 0.9);
+  width: 200px;
+  height: 25px;
+  border-radius: 15px;
   border-width: 0px;
 }
 

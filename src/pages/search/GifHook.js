@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import App from "../../App.css";
+// import App from "../../App.css";
 import Form from "../../component/Form";
 
 const GifHook = () => {
